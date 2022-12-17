@@ -1,0 +1,1 @@
+# The acronym 'scp' stands for secure copy.  
